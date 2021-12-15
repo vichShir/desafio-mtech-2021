@@ -28,11 +28,11 @@ Eles têm os seguintes requisitos:
 
 O casal quer escolher uma **acomodação** que atenda aos seus **requisitos e expectativas** pelo aplicativo Airbnb. Contudo, diante de milhares de acomodações disponíveis, **o casal não sabe qual delas exatamente escolher** para comemorar o aniversário de casamento.
 
-### 😃 Objetivo
+### 🎯 Objetivo
 
 Escolher **a melhor acomodação** que atenda às expectativas do casal.
 
-### 📁 Entendendo a Estrutura dos Dados
+### 🎲 Entendendo a estrutura dos dados
 
 O dataset contém **milhares de acomodações** no **Rio de Janeiro** coletadas do Airbnb. Seus atributos constituem-se das mais variadas **características** de cada acomodação, como nome, descrição, preço, avaliações entre outras.
 
@@ -49,3 +49,10 @@ O projeto final compõe a participação do Desafio MTEch 2021, que teve vários
 - Diego Ferreira Xavier
 - José Wellington Albuquerque
 - Victor Yukio Shirasuna
+
+### 📖 Referências
+* https://pandas.pydata.org/docs/
+* https://seaborn.pydata.org/generated/seaborn.boxplot.html
+* https://seaborn.pydata.org/generated/seaborn.histplot.html
+* https://seaborn.pydata.org/generated/seaborn.heatmap.html
+* https://seaborn.pydata.org/generated/seaborn.pairplot.html
