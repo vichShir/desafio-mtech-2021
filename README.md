@@ -11,12 +11,6 @@ O objetivo do projeto é determinar as **melhores acomodações** do RJ em um da
 ### 💑 Perfil
 
 Theo e Denise são um **casal** de aproximadamente 55 anos, que estão comemorando **Bodas de Prata**. <br>
-
-<p align="center">
-<img src="https://image.flaticon.com/icons/png/512/3649/3649320.png" width="192"><br>
-</p>
-
-
 Eles têm os seguintes requisitos:
 
 * Orçamento máximo de **R$4.000,00**
